@@ -1,3 +1,3 @@
 # scandiweb test task
 
-[live]('https://zzik-scandiweb.netlify.app/')
+[live](https://zzik-scandiweb.netlify.app/)
